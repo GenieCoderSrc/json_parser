@@ -1,7 +1,9 @@
 name: json_parser
-description: "A new Flutter package project."
+description: "A Dart package providing extensions to convert Future, List, and Stream of JSON maps into strongly typed model objects effortlessly."
 version: 0.0.1
-homepage:
+homepage: https://github.com/GenieCoderSrc/json_parser
+repository: https://github.com/GenieCoderSrc/json_parser
+issue_tracker: https://github.com/GenieCoderSrc/json_parser/issues
 
 environment:
   sdk: ^3.6.1
@@ -21,6 +23,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+example:
+  path: example
 
   # To add assets to your package, add an assets section, like this:
   # assets:
